@@ -1,0 +1,9 @@
+.elementor-301 .elementor-element.elementor-element-3f8f776 > .elementor-container {min-height: 600px;}
+.elementor-301 .elementor-element.elementor-element-3f8f776 > .elementor-container:after {content: "";min-height: inherit;}
+.elementor-301 .elementor-element.elementor-element-3f8f776:not(.elementor-motion-effects-element-type-background), .elementor-301 .elementor-element.elementor-element-3f8f776 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://clinicadiuro.com.br/wp-content/uploads/2019/09/slide-01.jpg");background-size: cover;}
+.elementor-301 .elementor-element.elementor-element-3f8f776 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-301 .elementor-element.elementor-element-3f8f776 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-301 .elementor-element.elementor-element-57db8d6 {text-align: center;}
+.elementor-301 .elementor-element.elementor-element-57db8d6.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-301 .elementor-element.elementor-element-747a46b .elementor-text-editor {text-align: center;}
+.elementor-301 .elementor-element.elementor-element-747a46b {color: #fff;font-size: 24px;}

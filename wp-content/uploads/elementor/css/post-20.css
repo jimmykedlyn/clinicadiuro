@@ -1,0 +1,28 @@
+.elementor-20 .elementor-element.elementor-element-aa71720 > .elementor-container {min-height: 300px;}
+.elementor-20 .elementor-element.elementor-element-aa71720 > .elementor-container:after {content: "";min-height: inherit;}
+.elementor-20 .elementor-element.elementor-element-aa71720:not(.elementor-motion-effects-element-type-background), .elementor-20 .elementor-element.elementor-element-aa71720 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #41319c;}
+.elementor-20 .elementor-element.elementor-element-aa71720 {border-style: solid;border-width: 0px 0px 10px 0px;border-color: #0d072e;transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 45px 0px 45px 0px;}
+.elementor-20 .elementor-element.elementor-element-aa71720 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-20 .elementor-element.elementor-element-f9ee46f.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-20 .elementor-element.elementor-element-35f262c {color: #fff;}
+.elementor-20 .elementor-element.elementor-element-0b0742f .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {padding-bottom: calc(5px / 2);}
+.elementor-20 .elementor-element.elementor-element-0b0742f .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {margin-top: calc(5px / 2);}
+.elementor-20 .elementor-element.elementor-element-0b0742f .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {margin-right: calc(5px / 2);margin-left: calc(5px / 2);}
+.elementor-20 .elementor-element.elementor-element-0b0742f .elementor-icon-list-items.elementor-inline-items {margin-right: calc(-5px / 2);margin-left: calc(-5px / 2);}
+body.rtl .elementor-20 .elementor-element.elementor-element-0b0742f .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {left: calc(-5px / 2);}
+body:not(.rtl) .elementor-20 .elementor-element.elementor-element-0b0742f .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {right: calc(-5px / 2);}
+.elementor-20 .elementor-element.elementor-element-0b0742f .elementor-icon-list-icon i {color: #fff;font-size: 22px;}
+.elementor-20 .elementor-element.elementor-element-0b0742f .elementor-icon-list-icon svg {fill: #fff;width: 22px;}
+.elementor-20 .elementor-element.elementor-element-0b0742f .elementor-icon-list-text {color: #fff;}
+.elementor-20 .elementor-element.elementor-element-0b0742f .elementor-icon-list-item:hover .elementor-icon-list-text {color: #fff;}
+.elementor-20 .elementor-element.elementor-element-ad9fd44.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-20 .elementor-element.elementor-element-9a9786a .elementor-repeater-item-ecf8d2a {background-color: #9c1f70;}
+.elementor-20 .elementor-element.elementor-element-9a9786a .elementor-repeater-item-ecf8d2a i {color: #fff;}
+.elementor-20 .elementor-element.elementor-element-9a9786a .elementor-repeater-item-ecf8d2a svg {fill: #fff;}
+.elementor-20 .elementor-element.elementor-element-9a9786a {text-align: left;}
+.elementor-20 .elementor-element.elementor-element-9a9786a .elementor-social-icon {font-size: 22px;}
+.elementor-20 .elementor-element.elementor-element-0b143b2.elementor-widget-heading .elementor-heading-title {color: #fff;}
+.elementor-20 .elementor-element.elementor-element-8d1dc6e {color: #fff;}
+@media (min-width:768px) {.elementor-20 .elementor-element.elementor-element-1d44fb3 {width: 33.33%;}
+	.elementor-20 .elementor-element.elementor-element-f6a9b44 {width: 26.81%;}
+	.elementor-20 .elementor-element.elementor-element-cc8122b {width: 32%;}}
